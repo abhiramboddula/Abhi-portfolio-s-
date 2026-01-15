@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Anuj579/My-Portfolio.git
+   git clone https://github.com/abhiramboddula/My-Portfolio.git
 
    ```
 
