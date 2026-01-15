@@ -8,7 +8,7 @@ Welcome to my portfolio website! This project showcases my skills and experience
 
 ## 🚀 Live Demo
 
-You can view the live version of my portfolio website [here](https://anujchaudhary.netlify.app/).
+You can view the live version of my portfolio website [here](https://heyabhiram.netlify.app/).
 
 ## 🛠️ Technologies Used
 
@@ -66,9 +66,8 @@ To run this project locally, follow these steps:
 
 ## 📱 Social Media
 
-- [Twitter](https://x.com/anujbuilds)
-- [LinkedIn](https://www.linkedin.com/in/anujchaudhary549/)
-- [YouTube](https://www.youtube.com/@anujbuilds)
-- [Instagram](https://www.instagram.com/anujbuilds)
+- [LinkedIn](https://www.linkedin.com/in/abhiram-boddula-38774a3a1/)
+- [YouTube](https://www.youtube.com/@WORLDOFRAMANAYAM)
+- [Instagram](https://www.instagram.com/abhi_voxx/)
 
-Developed with ❤️ by Anuj
+Developed with ❤️ by Abhivoxx
